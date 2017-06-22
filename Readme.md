@@ -6,5 +6,4 @@ Este arquivo está sendo modificado para ser usado localmente e enviado para o r
 
 Alteração pra usar no stash (work in progess)
 
-
-sjdsidjs
+Uma nova tag.
